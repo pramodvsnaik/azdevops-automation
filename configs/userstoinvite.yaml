@@ -1,0 +1,10 @@
+organization: https://dev.azure.com/{orgname}/
+
+default_access_level: basic
+
+users:
+  - email: pramod@abc.com
+    access_level: basic
+    project: azuredevops-automate
+    groups:
+      - Contributors
